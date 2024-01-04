@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Lekton-Regular
+font link: https://fonts.google.com/specimen/Lekton
+font author: ISIA Urbino
+font author site: http://lektongroups.blogspot.ca/
+
+
+icon designer: Icons By Alfredo
+icon designer link: /AlfredoCreates
+        
+{"bg":"#F5EDED","icon-gradient-0":"#843F47","icon-gradient-1":"#D0978B","font":"#372222","slogan":"#4b3636"}
+      
